@@ -1,5 +1,5 @@
 
-# RONTALE-HCI-PORTFOLIO
+# FANLO-HCI-PORTFOLIO
 
 ### Team Logo
 The logo is located at RONTALE-HCI-PORTFOLIO named "TEAM R.U.S.T. LOGO.png"
